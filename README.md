@@ -4,7 +4,7 @@
 
 💻 **Já tive contato com diversas linguagens como: Python 🐍, C ⚙️, C++ ➕➕, Java ☕, CSS 🎨, HTML 🌐 e React ⚛️.**
 
-🚀 **Tenho mais experiência em: Python 🐍, Java ☕, React ⚛️, HTML 🌐 e CSS 🎨, onde desenvolvo projetos e aprimoro minhas habilidades constantemente.**
+🚀 **Tenho mais experiência em: Python 🐍, Java ☕, React ⚛️, HTML 🌐, CSS 🎨, Git 🔧 e GitHub 🖥️, onde desenvolvo projetos e aprimoro minhas habilidades constantemente.**
 
 🛠️ **Meu ambiente de desenvolvimento que mais utilizo é o Visual Studio Code 🖥️.**
 
