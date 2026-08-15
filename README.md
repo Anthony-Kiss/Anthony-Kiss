@@ -33,6 +33,5 @@
 
 
 
-![Snake animation](https://github.com/Anthony-Kiss/Anthony-Kiss/blob/output/snake.svg)
 
 
