@@ -1,4 +1,5 @@
- **Olá, me chamo Anthony Kiss(💻)**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FFFFFF&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Anthony+Kiss;Sou+desenvolvedor+Full+Stack;Prazer+em+conhecer+vocês)](https://git.io/typing-svg)
+
 
 📚 **Atualmente estou cursando o 6º período da faculdade de Tecnologia em Sistemas para Internet (TSI).**
 
